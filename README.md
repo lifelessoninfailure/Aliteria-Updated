@@ -1,6 +1,7 @@
 # Aliteria-Updated
 updated base of Aliteria click on the vcxproj twice and open with visual studio and now u have an sln file injector crashes after 10 mins put the dll next to Injector.exe name it Module.dll run roblox then the Injector and try executing and it will work
-
+# GUIDE
+tutorial on how to make an library u made registered: go to Scheduler.cpp and put this inside the Anetia_getluastate: Environment::Libraries::LIBRARYNAME::Register( LuaState );
 # CRASHES
 if you crash while injecting its the windows issue because windows 11 doesnt support this injector so try and get another injector that works on windows 11 that injector only works for 10
 
