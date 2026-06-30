@@ -9,7 +9,7 @@ injector wont get created when u build as its not in the vcxproj include it in p
 
 Go to dependencies folder and Extract the Luau zip to folder called "Luau" or else you'll get errors.
 
-# EXECUTE CODE [winforms .net framwowrk]
+# EXECUTE CODE [winforms .net framework]
 
     using System.Net.Sockets;
     private void button1_Click(object sender, EventArgs e)
